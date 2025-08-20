@@ -10,7 +10,7 @@ Shizuku supports startup in the following three ways.
 
 System settings - "Security" - "Secure app spawning" may need to be disabled.
 
-[Source](https://github.com/RikkaApps/websites/pull/79#issue-1751837442)
+[Source](HTTPS://github.com/RikkaApps/websites/pull/79#issue-1751837442)
 
 :::
 
@@ -38,7 +38,8 @@ Starting with wireless debugging works on Android 11 or above. This startup meth
 
 #### Start Shizuku
 
-<img :src="$withBase('/images/start_shizuku.png')" style="max-width:320px;width:100%">
+<img :src="$withBase(4. Enter pairing code in Shizuku's notificaiton<br><img :src="$withBase('/images/enter_pairing_code.png')" style="max-width:320px;width:100%">
+'/images/start_shizuku.png')" style="max-width:320px;width:100%">
 
 If it does not start, try disabling and enabling wireless debugging.
 
